@@ -4,11 +4,11 @@
 
 - ⭐ I’m currently working on ["Perfect Size" — Shopify Shop Mini](https://github.com/jacobposchl/shopify-mini)
 
-- 📚 I’m currently learning more about **Large Language Models (LLMs)**
+- 📚 I’m currently learning about **time-series foundation models (like Amazon’s Chronos / Chronos-Bolt) for zero-shot forecasting**
 
 - 📫 Email: **ohom@wisc.edu**
 
-- 🏈 Fun fact: **I'm really into Fantasy Football**
+- 🏈 Fun fact: **I'm really into Fantasy Football!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
