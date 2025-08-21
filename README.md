@@ -3,7 +3,7 @@
 
 - ⭐ I’m currently working on ["Perfect Size" — Shopify Shop Mini](https://github.com/jacobposchl/shopify-mini)
 
-- 🌱 I’m currently learning more about **Large Language Models (LLMs)**
+- 📚 I’m currently learning more about **Large Language Models (LLMs)**
 
 - 📫 Email: **ohom@wisc.edu**
 
