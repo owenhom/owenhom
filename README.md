@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Hom</h1>
-<h3 align="center">CS & Data Science @ University of Wisconsin-Madison</h3>
+<h3 align="center">CS + Data Science @ University of Wisconsin-Madison</h3>
 <h3 align="center">Posse Scholar (Los Angeles 21)</h3>
 
 - ⭐ I’m currently working on ["Perfect Size" — Shopify Shop Mini](https://github.com/jacobposchl/shopify-mini)
