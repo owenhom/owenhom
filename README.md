@@ -7,7 +7,7 @@
 
 - 📫 Email: **ohom@wisc.edu**
 
-- 🏈 Fun fact: **I'm really into Fantasy Football!**
+- 🏈 Fun fact: **I'm currently in a 12-man Fantasy Football League!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
