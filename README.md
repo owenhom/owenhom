@@ -3,8 +3,6 @@
 
 - ⭐ I’m currently working on ["Perfect Size" — Shopify Shop Mini](https://github.com/jacobposchl/shopify-mini)
 
-- 📚 I’m currently learning about **time-series foundation models (like Amazon’s Chronos / Chronos-Bolt) for zero-shot forecasting**
-
 - 📫 Email: **ohom@wisc.edu**
 
 - 🏈 Fun fact: **I'm currently in a 12-man Fantasy Football League!**
