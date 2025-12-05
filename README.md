@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen Hom</h1>
 <h3 align="center">CS + Data Science @ University of Wisconsin-Madison | Posse Scholar (Los Angeles 21)</h3>
 
-- ⭐ I’m currently working on building an MLB game total score prediction model!
+- ⭐ I’m currently working on building a baseball total score model for sports betting!
 
 - 📫 Email: **ohom@wisc.edu**
 
